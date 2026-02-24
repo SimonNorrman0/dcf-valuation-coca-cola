@@ -136,7 +136,31 @@ Implied\ Share\ Price = \frac{Equity\ Value}{Shares\ Outstanding}
 
 Under conservative assumptions, the model suggests intrinsic value below the current market price, implying that the market may be pricing in higher long-term growth, lower cost of capital, or additional structural advantages.
 
+
 ---
+
+## Conclusion
+
+Using the base-case assumptions (**4% revenue growth**, **28% EBIT margin**, **23% tax rate**, **WACC = 6.85%**, **terminal growth (g) = 2.5%**), the DCF implies an intrinsic value of approximately **$29.29 per share**.
+
+This value should be interpreted relative to the current market price:
+- If the market price is **above** $29.29, the market is effectively pricing in **higher growth**, **higher margins**, and/or a **lower cost of capital** than the base case.
+- If the market price is **below** $29.29, the market is pricing in **lower growth**, **lower margins**, and/or a **higher cost of capital** than the base case.
+
+### Sensitivity / Key Drivers
+The valuation is highly sensitive to **WACC** and **terminal growth**, as shown in the sensitivity table. Small changes in either assumption lead to large changes in implied share price, which is typical for DCF models where a significant portion of value comes from the terminal value.
+
+### Takeaway
+Overall, the DCF suggests that Coca-Cola’s implied valuation is driven primarily by long-term assumptions about:
+- sustainable growth (**g**),
+- required return (**WACC**),
+- and operating profitability (EBIT margin).
+
+Therefore, the model’s output should be viewed as a range rather than a single “correct” price, with the sensitivity analysis providing the most realistic view of valuation outcomes.
+
+---
+
+
 
 # Sensitivity Analysis
 
@@ -155,8 +179,8 @@ TV = \frac{FCF_{2030}(1+g)}{WACC - g}
 
 As:
 
-- \(WACC \downarrow\) → valuation increases  
-- \(g \uparrow\) → valuation increases  
+- $WACC \downarrow$ → valuation increases  
+- $g \uparrow$ → valuation increases  
 
 ---
 
@@ -164,15 +188,15 @@ As:
 
 The Excel model is organized as:
 
-```
-Cover
-Assumptions
-Historical Financials
-Forecast
-Free Cash Flow
-WACC
-DCF & Sensitivity
-```
+
+- Cover
+- Assumptions
+- Historical Financials
+- Forecast
+- Free Cash Flow
+- WACC
+- DCF & Sensitivity
+
 
 The structure ensures:
 
