@@ -43,7 +43,7 @@ Definitions:
 - \(T\) = Effective tax rate  
 - \(D\&A\) = Depreciation & Amortization  
 - \(CapEx\) = Capital Expenditures  
-- \(\Delta NWC\) = Change in Net Working Capital  
+- ($\Delta NWC$) = Change in Net Working Capital  
 
 ---
 
