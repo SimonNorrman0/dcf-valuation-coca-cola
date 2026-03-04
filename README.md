@@ -136,20 +136,6 @@ Implied\ Share\ Price = \frac{Equity\ Value}{Shares\ Outstanding}
 
 Under conservative assumptions, the model suggests intrinsic value below the current market price, implying that the market may be pricing in higher long-term growth, lower cost of capital, or additional structural advantages.
 
-
----
-
-## Conclusion
-
-Using the base-case assumptions (**4% revenue growth**, **28% EBIT margin**, **23% tax rate**, **WACC = 6.85%**, **terminal growth (g) = 2.5%**), the DCF implies an intrinsic value of approximately **$29.29 per share**.
-
-This value should be interpreted relative to the current market price:
-- If the market price is **above** $29.29, the market is effectively pricing in **higher growth**, **higher margins**, and/or a **lower cost of capital** than the base case.
-- If the market price is **below** $29.29, the market is pricing in **lower growth**, **lower margins**, and/or a **higher cost of capital** than the base case.
-
-### Sensitivity / Key Drivers
-The valuation is highly sensitive to **WACC** and **terminal growth**, as shown in the sensitivity table. Small changes in either assumption lead to large changes in implied share price, which is typical for DCF models where a significant portion of value comes from the terminal value.
-
 ### Takeaway
 Overall, the DCF suggests that Coca-Cola’s implied valuation is driven primarily by long-term assumptions about:
 - sustainable growth (**g**),
@@ -158,9 +144,8 @@ Overall, the DCF suggests that Coca-Cola’s implied valuation is driven primari
 
 Therefore, the model’s output should be viewed as a range rather than a single “correct” price, with the sensitivity analysis providing the most realistic view of valuation outcomes.
 
+
 ---
-
-
 
 # Sensitivity Analysis
 
@@ -197,14 +182,6 @@ The Excel model is organized as:
 - WACC
 - DCF & Sensitivity
 
-
-The structure ensures:
-
-- Clear separation between operating forecast and valuation mechanics  
-- No hardcoded valuation outputs  
-- Transparent assumption linking  
-- Fully dynamic sensitivity analysis  
-
 ---
 
 # Financial Concepts Applied
@@ -215,28 +192,6 @@ The structure ensures:
 - Free Cash Flow to Firm (FCFF)  
 - Enterprise to Equity Bridge  
 - Sensitivity Analysis  
-
----
-
-# What This Project Demonstrates
-
-- Ability to build a complete DCF model from scratch  
-- Understanding of valuation mechanics  
-- Proper structuring of financial assumptions  
-- Awareness of sensitivity and model risk  
-- Analytical reasoning behind intrinsic value estimation  
-
----
-
-# Potential Extensions
-
-Future enhancements could include:
-
-- Multi-stage growth modeling  
-- Scenario analysis (Bear / Base / Bull)  
-- Comparable company valuation  
-- Football-field valuation analysis  
-- Market-implied growth reverse engineering  
 
 ---
 
