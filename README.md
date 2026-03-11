@@ -130,9 +130,9 @@ Implied\ Share\ Price = \frac{Equity\ Value}{Shares\ Outstanding}
 
 # Valuation Results (Base Case)
 
-- **Enterprise Value:** ~\$236B  
-- **Equity Value:** ~\$206B  
-- **Implied Share Price:** ~\$29  
+- **Enterprise Value:** ~\$281B  
+- **Equity Value:** ~\$251B  
+- **Implied Share Price:** ~\$35.77  
 
 Under conservative assumptions, the model suggests intrinsic value below the current market price, implying that the market may be pricing in higher long-term growth, lower cost of capital, or additional structural advantages.
 
