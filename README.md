@@ -169,18 +169,13 @@ As:
 
 ---
 
-# Model Structure
+# Model
 
-The Excel model is organized as:
+<img width="1474" height="305" alt="image" src="https://github.com/user-attachments/assets/d0c33a22-da2b-4aea-a5c6-baf093e90b30" />
+<img width="1023" height="419" alt="image" src="https://github.com/user-attachments/assets/63d5cf03-6db6-438c-8633-51973afe8d7a" />
+<img width="446" height="361" alt="image" src="https://github.com/user-attachments/assets/fb4cdf1c-e0ff-476c-a1d3-d801eef2491a" />
+<img width="877" height="731" alt="image" src="https://github.com/user-attachments/assets/a5dad067-4485-49af-bf99-bbd4308af29d" />
 
-
-- Cover
-- Assumptions
-- Historical Financials
-- Forecast
-- Free Cash Flow
-- WACC
-- DCF & Sensitivity
 
 ---
 
