@@ -18,8 +18,8 @@ from publicly available financials.
 
 ## Assumptions
 
-Historical financials sourced from public filings. Forward assumptions - growth rates,
-margin expansion, and discount rates - are the author's own estimates built across
+Historical financials sourced from public filings. Forward assumptions such as growth rates,
+margin expansion, and discount rates are all my own estimates built across
 three scenarios to reflect a range of outcomes.
 
 # Model
